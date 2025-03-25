@@ -53,7 +53,7 @@ if(startingValue <= 0)
     UDB.die("Tag can't be 0 or less!");
 
 // Check if the format supports multiple line tags
-if(!(UDB.Map.isUDMF) && clearTags)
+if(!(UDB.Map.isUDMF) && addTags)
     UDB.die('Format does not support multiple tags! (turn off additive tagging)');
 
 // Clear tags from the linedefs
@@ -67,5 +67,5 @@ if(!addTags){
 
 // Add tags baby
 for(let i = 0; i < lines.length; i++){
-    lines[i].addTag(stepIncrement(i + startingValue));
+    lines[i].addTag(stepIncrement(i + startingValue + 1));
 }
