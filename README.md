@@ -21,7 +21,7 @@ Mapping scripts for Ultimate Doom Builder
 ## Tagging Scripts
 
 ### Stepwise Incrementing Tagger
-Increments each selected line every x steps, where x is the Step Value you set.
+Increments each selected line every x steps, where x is the Step Value you set. Goes in ascending order of lindef numbers.
 * Starting Tag - The number the incrementing starts at. Can't be zero or less.
 * Step Value - How many 'steps' the program takes before incrementing the number
 * Additive Tagging - Adds the tags to the lines instead of replacing then. UDMF only.
