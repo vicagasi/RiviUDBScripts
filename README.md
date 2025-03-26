@@ -41,4 +41,4 @@ Replaces the tags of each selected sector's linedefs with the sector's tags.
 
 ## Useful Links
 [Ultimate Doom Builder](https://ultimatedoombuilder.github.io)
-[UDBScript Docs]([https://github.com/matiassingers/awesome-readme](https://biwa.github.io/udbscript-docs/))
+[UDBScript Docs](https://biwa.github.io/udbscript-docs/)
