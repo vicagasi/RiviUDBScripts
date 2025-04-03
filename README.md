@@ -17,8 +17,8 @@ Mapping scripts for Ultimate Doom Builder
 * Open script window in UDB.
 * Click on the script you want to use. Make sure to read the description.
 ![image](https://github.com/user-attachments/assets/8cf30f64-15fc-4c11-a976-e4a289222dcd)
-* Scripts that rely on cursor position need hotkeys to work. Set the hotkey in preferences. Mine is alt + 1.
-* ![image](https://github.com/user-attachments/assets/c955e32c-5d0e-4153-a12c-4caf7c50e08d)
+* Scripts that rely on cursor position need hotkeys to work. Set the hotkey in preferences -> controls
+![image](https://github.com/user-attachments/assets/c955e32c-5d0e-4153-a12c-4caf7c50e08d)
 
 
 ## Scripts
@@ -41,6 +41,8 @@ Increments each selected line every x steps, where x is the Step Value you set. 
 ![advisory](https://github.com/user-attachments/assets/bd07b15b-cd45-4339-9653-75a7d72add07)
 
 ## Version History
+* 0.2
+   * Added Draw Sky Transfers
 
 * 0.1
     * Initial Release
